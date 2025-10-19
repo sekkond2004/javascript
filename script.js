@@ -8,9 +8,6 @@ for (let i = 0; i < favoriteFoods.length; i++) {
   console.log("One of my favorite foods is " + favoriteFoods[i]);
 }
 
-
-
-
 // 3. Print out the rating for each food with a ranking like:
 // "My #1 favorite food is Ramen" (copy/paste for all items)
 // "My #2 favorite food is Sushi"
